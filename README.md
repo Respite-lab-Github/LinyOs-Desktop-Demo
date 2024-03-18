@@ -1,2 +1,2 @@
-# LinyOs-Desktop-Demo
+# linyOS-Desktop-Demo
 A demo of linyos desktop
