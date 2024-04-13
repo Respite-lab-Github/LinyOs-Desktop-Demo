@@ -34,4 +34,4 @@ export default {
   background-position-x: center;
   background-position-y: 35%;
 }
-</style>
+</style >
