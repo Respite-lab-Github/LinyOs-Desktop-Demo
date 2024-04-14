@@ -105,6 +105,7 @@ export default {
                 const minutes = ('0' + date.getMinutes()).slice(-2);
                 $('.linyos-dock-n-time span').text(hours + ":" + minutes);
             };
+            changeDateDock();
             const changeTimeTimer_Dock = setInterval(() => {
                 changeDateDock();
             }, 800)

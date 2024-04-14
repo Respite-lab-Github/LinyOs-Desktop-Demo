@@ -19,7 +19,7 @@ export default {
   }
 }
 </script>
-<style>
+<style scoped>
 .linyos-desktop {
   position: absolute;
   width: 100%;
