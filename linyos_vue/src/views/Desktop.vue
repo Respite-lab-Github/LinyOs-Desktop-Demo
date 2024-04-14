@@ -29,9 +29,9 @@ export default {
 .linyos-desktop-below-wallpaper{
   width: 100vw;
   height: 100vh;
-  background-image: url("../assets/wallpaper.png");
+  background-image: url("../assets/IMG_6467.png");
   background-size: cover;
-  background-position-x: center;
-  background-position-y: 35%;
+  /*background-position-x: center;
+  background-position-y: 35%;*/
 }
 </style >
