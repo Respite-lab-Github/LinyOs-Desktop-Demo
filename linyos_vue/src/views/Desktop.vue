@@ -1,7 +1,7 @@
 <template>
-  <LDock></LDock>
   <div class="linyos-desktop">
     <div class="linyos-desktop-upper">
+      <LDock></LDock>
     </div>
     <div class="linyos-desktop-below">
       <div class="linyos-desktop-below-wallpaper">
