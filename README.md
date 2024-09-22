@@ -55,8 +55,8 @@
 
 如果你有任何疑问或建议，可以通过以下方式与我们联系：
 
-- **邮箱**：[项目邮箱地址]
-- **GitHub仓库**：[项目GitHub链接]
-- **社区论坛**：[项目社区论坛链接]
+- **邮箱**：[respitelab@outlook.com]
+- **GitHub仓库**：[https://github.com/Respite-lab-Github/LinyOs-Desktop-Demo]
+- **社区论坛**：[https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=253g66d0-1b5d-4c42-8a8a-8e1f0c52de30]
 
 我们期待与你的交流与合作！
